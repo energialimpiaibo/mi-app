@@ -1,6 +1,6 @@
 {
-  "name": "Mi Aplicación Web",
-  "short_name": "MiApp",
+  "name": "Energy",
+  "short_name": "Energy",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
